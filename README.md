@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=300&section=header&text=jungwon%20Park&fontSize=90&fontColor=FFFF)
 
 
-<center><b>안녕하세요 박중원의 깃허브에 오신 것을 환영합니다.</b></center><br><br>
+<center><b>안녕하세요 박중원의 깃허브에 오신 것을 환영합니다.</b></center><br>
 저는 현재 DB엔지니어 11개월차이며<br>
 개발로의 이직을 원하고 있습니다.<br>
 기본적인 데이터베이스에 대한 이해를 하고 있어서 <br>
-인덱스의 활용과 효율적인 SQL쿼리를 사용할 수 있습니다.<br>
+인덱스의 활용과 효율적인 SQL쿼리를 사용할 수 있습니다.<br><br>
 
 
 ☁️ <b>I can do this!!</b> ☁️ <br> 
