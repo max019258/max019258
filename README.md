@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=300&section=header&text=jungwon%20Park&fontSize=90&fontColor=FFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=300&section=header&text=jungwon's%20GitHub&fontSize=90&fontColor=FFFF)
 
 
 <center><b>안녕하세요 박중원의 깃허브에 오신 것을 환영합니다.</b></center><br><br>
