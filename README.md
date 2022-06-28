@@ -1,9 +1,16 @@
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=81DAF5&height=300&section=header&text=jungwon%20Park&fontSize=90&fontColor=FFFF)
 
 
-<center>안녕하세요 박중원의 깃에 오신 것을 환영합니다.</center><br><br>
+<center><b>안녕하세요 박중원의 깃허브에 오신 것을 환영합니다.</b></center><br><br>
+저는 현재 DB엔지니어 11개월차이며
+개발로의 이직을 원하고 있습니다.
+기본적인 데이터베이스에 대한 이해를 하고 있어서 
+인덱스의 활용과 효율적인 SQL쿼리를 사용할 수 있습니다.
 
-☁️ I can do this!! ☁️ <br> 
+
+☁️ <b>I can do this!!</b> ☁️ <br> 
 <img src="https://img.shields.io/badge/javascript-F5A9A9?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/java-F7BE81?"/>
 <img src="https://img.shields.io/badge/html-F2F5A9?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-D0F5A9?style=flat-square&logo=CSS3&logoColor=white"/>
