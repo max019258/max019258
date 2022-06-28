@@ -11,6 +11,8 @@
 
 
 ☁️ <b>I can do this!!</b> ☁️ <br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max019258&hide=CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://img.shields.io/badge/javascript-F5A9A9?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/java-F7BE81?"/>
 <img src="https://img.shields.io/badge/html-F2F5A9?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css-D0F5A9?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -23,6 +25,7 @@
 ![max019258's github stats](https://github-readme-stats.vercel.app/api?username=max019258&show_icons=true)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmax019258&count_bg=%23AFE4FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
 
