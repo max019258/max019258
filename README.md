@@ -22,10 +22,15 @@
 <img src="https://img.shields.io/badge/linux-F5A9F2?style=flat-square&logo=Linux&logoColor=white"/> 
 <img src="https://img.shields.io/badge/eclipse-D8D8D8?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
+
+<내가 배포한 웨일 앱 - 학교웹사이트 자바스크립트를 분석하여 자동하여 휴면 체크 해주는 앱 제작 USED : javaScript>
+https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
+
+
+
 ![max019258's github stats](https://github-readme-stats.vercel.app/api?username=max019258&show_icons=true)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmax019258&count_bg=%23AFE4FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 
 
