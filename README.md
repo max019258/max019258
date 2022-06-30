@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmax019258&count_bg=%23AFE4FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <center><b>안녕하세요 박중원의 깃허브에 오신 것을 환영합니다.</b></center><br><br>
- 저는 한 회사에서 개발 4개월 + DB엔지니어 7개월차인 새내기 엔지니어 입니다. <br>
+ 저는 한 회사에서 개발 4개월 + DB엔지니어 7개월차인 새내기 엔지니어 입니다. <br><br>
 
 
 
