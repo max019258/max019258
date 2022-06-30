@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/eclipse-D8D8D8?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
 <h3>[PORTFOLIO]</h3>
-<b> 1. 학교웹사이트 자바스크립트를 분석하여 자동 휴면 체크를 대신 해주는 앱 제작 </b><br>
+<b> 1. 학교웹사이트 자바스크립트를 분석하여 자동 휴면 체크를 대신 해주는 앱 제작(웨일로 봐야함) </b><br>
 USED : javaScript <br>
 https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
 <br><br><b> 2. 컴성비 프로젝트 : 컴퓨터 문외한을 위한사이트 </b><br>
