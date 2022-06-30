@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/linux-F5A9F2?style=flat-square&logo=Linux&logoColor=white"/> 
 <img src="https://img.shields.io/badge/eclipse-D8D8D8?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
-<h3>[PORTFOLIO]</h3>
+<h2>[PORTFOLIO]</h2>
 <b> 1. 학교웹사이트 자바스크립트를 분석하여 휴면 체크를 대신 해주는 앱 제작(웨일로 봐야함) </b><br>
 USED : javaScript <br>
 https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
