@@ -36,6 +36,6 @@ https://github.com/max019258/malecon_test
 <br><br><b> 4. 파이썬을 이용한 TCP/IP 공부 + 숫자야구 구현</b><br>
 USED : python <br>
 https://github.com/max019258/TCP_final
-<br><br><b> 5. 도커로 오라클 서버 띄워보기 </b><br>
-USED : docker , Oracle <br> 
+<br><br><b> 5. 도커로 오라클 서버 및 파이썬 서버 띄워보기 </b><br>
+USED : docker , Oracle , alpine Linux<br> 
 https://github.com/max019258/docker-images
