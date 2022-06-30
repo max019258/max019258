@@ -24,18 +24,18 @@
 <img src="https://img.shields.io/badge/eclipse-D8D8D8?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
 <h3>[PORTFOLIO]</h3>
-<b> 1. 학교웹사이트 자바스크립트를 분석하여 자동하여 휴면 체크를 대신 해주는 앱 제작 </b>
-USED : javaScript
+<b> 1. 학교웹사이트 자바스크립트를 분석하여 자동하여 휴면 체크를 대신 해주는 앱 제작 </b><br>
+USED : javaScript <br>
 https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
-<b> 2. 컴성비 프로젝트 : 컴퓨터 문외한을 위한사이트 </b>
-USED : javaScript,java,jsp,css,html,mySQL
+<br><br><b> 2. 컴성비 프로젝트 : 컴퓨터 문외한을 위한사이트 </b><br>
+USED : javaScript , java , jsp , css , html , mySQL <br>
 https://github.com/max019258/startup
-<b> 3. 웹에서 사용하는 SQL툴 </b>
-USED : javaScript,java,jsp,css,html,mvn,jQuery,docker,servlet,ORACLE
+<br><br><b> 3. 웹에서 사용하는 SQL툴 </b><br>
+USED : javaScript , java , jsp , css , html , jQuery , docker , servlet , ORACLE<br>
 https://github.com/max019258/malecon_test
-<b> 4. 파이썬을 이용한 TCP/IP 공부 + 숫자야구 구현</b>
-USED : python
+<br><br><b> 4. 파이썬을 이용한 TCP/IP 공부 + 숫자야구 구현</b><br>
+USED : python <br>
 https://github.com/max019258/TCP_final
-<b> 5. 도커로 오라클 서버 띄워보기 </b>
-USED : docker,Oracle
+<br><br><b> 5. 도커로 오라클 서버 띄워보기 </b><br>
+USED : docker , Oracle <br> 
 https://github.com/max019258/docker-images
