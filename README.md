@@ -30,7 +30,7 @@ https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
 USED : javaScript , java , jsp , css , html , mySQL <br>
 https://github.com/max019258/startup
 <br><br><b> 3. 웹에서 사용하는 SQL툴 </b><br>
-USED : javaScript , java , jsp , css , html , jQuery , docker , servlet , ORACLE<br>
+USED : javaScript , java , jsp , css , html , jQuery , docker , servlet , ORACLE , ajax<br>
 https://github.com/max019258/malecon_test
 <br><br><b> 4. 파이썬을 이용한 TCP/IP 공부 + 숫자야구 구현</b><br>
 USED : python <br>
