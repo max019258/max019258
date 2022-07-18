@@ -7,8 +7,6 @@
 <center><b>안녕하세요 박중원의 깃허브에 오신 것을 환영합니다.</b></center><br><br>
  저는 현 회사에서 개발 4개월 + DB엔지니어 7개월차입니다. <br><br>
 
-
-
  <h2> ☁️ I can do this!! ☁️ </h2>  
  
  <b></b>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max019258&hide=CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,14 +21,14 @@
 <img src="https://img.shields.io/badge/eclipse-D8D8D8?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 
 <h2>[PORTFOLIO]</h2>
-<b> 1. 학교웹사이트 자바스크립트를 분석하여 휴면 체크를 대신 해주는 앱 제작(웨일로 봐야함) </b><br>
-USED : javaScript <br>
+<b> 1. 웹에서 사용하는 SQL툴 </b><br>
+USED : javaScript , java , jsp , css , html , jQuery , docker , servlet , ORACLE , ajax<br>
 https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
 <br><br><b> 2. 컴성비 프로젝트 : 컴퓨터 문외한을 위한사이트 </b><br>
 USED : javaScript , java , jsp , css , html , mySQL <br>
 https://github.com/max019258/startup
-<br><br><b> 3. 웹에서 사용하는 SQL툴 </b><br>
-USED : javaScript , java , jsp , css , html , jQuery , docker , servlet , ORACLE , ajax<br>
+<br><br><b> 3. 학교웹사이트 자바스크립트를 분석하여 휴면 체크를 대신 해주는 앱 제작(웨일로 봐야함) </b><br>
+USED : javaScript <br>
 https://github.com/max019258/malecon_test
 <br><br><b> 4. 파이썬을 이용한 TCP/IP 공부 + 숫자야구 구현</b><br>
 USED : python <br>
