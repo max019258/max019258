@@ -23,13 +23,14 @@
 <h2>[PORTFOLIO]</h2>
 <b> 1. 웹에서 사용하는 SQL툴 </b><br>
 USED : javaScript , java , jsp , css , html , jQuery , docker , servlet , ORACLE , ajax<br>
-https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
+https://github.com/max019258/malecon_test
 <br><br><b> 2. 컴성비 프로젝트 : 컴퓨터 문외한을 위한사이트 </b><br>
 USED : javaScript , java , jsp , css , html , mySQL <br>
 https://github.com/max019258/startup
 <br><br><b> 3. 학교웹사이트 자바스크립트를 분석하여 휴면 체크를 대신 해주는 앱 제작(웨일로 봐야함) </b><br>
 USED : javaScript <br>
-https://github.com/max019258/malecon_test
+https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
+
 <br><br><b> 4. 파이썬을 이용한 TCP/IP 공부 + 숫자야구 구현</b><br>
 USED : python <br>
 https://github.com/max019258/TCP_final
