@@ -30,7 +30,6 @@ https://github.com/max019258/startup
 <br><br><b> 3. 학교웹사이트 자바스크립트를 분석하여 휴면 체크를 대신 해주는 앱 제작(웨일로 봐야함) </b><br>
 USED : javaScript <br>
 https://store.whale.naver.com/detail/noeidepgohlclibmigmkcabpfklniloh
-
 <br><br><b> 4. 파이썬을 이용한 TCP/IP 공부 + 숫자야구 구현</b><br>
 USED : python <br>
 https://github.com/max019258/TCP_final
